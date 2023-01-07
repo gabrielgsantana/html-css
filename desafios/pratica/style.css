@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+/* FONTES */
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,600&display=swap');
+
+/* FIM DAS FONTES */
+*{
+    margin: 0;
+}
+
+
+body{
+ font-family: 'Petrona', serif;;
+}
+h1#principal{
+    color: white;
+    text-align: center;
+    font-family: 'Bitter', serif;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    font-size: 50px;
+}
+div{ 
+    background-image: url(imagens/tecido-dragon-ball-z-akatsuki-fundo-preto-140-cm-x-100-cm-tecido.jpg); 
+    background-size: cover;
+    font-size: 20px;
+}
+nav a{
+    color: white;
+    
+}
+h1{
+    font-family: 'Bebas Neue', cursiva;
+}
